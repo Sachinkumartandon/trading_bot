@@ -1,0 +1,2 @@
+2026-03-13 21:07:32,170 - INFO - Sending order request: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.01, 'recvWindow': 60000}
+2026-03-13 21:07:38,448 - INFO - Sending order request: {'symbol': 'BTCUSDT', 'side': 'SELL', 'type': 'LIMIT', 'quantity': 0.01, 'recvWindow': 60000, 'price': '95000.0', 'timeInForce': 'GTC'}
